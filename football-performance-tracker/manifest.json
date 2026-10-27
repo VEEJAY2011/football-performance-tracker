@@ -1,0 +1,14 @@
+{
+  "name": "Football Performance Tracker",
+  "short_name": "Football Tracker",
+  "description": "Personal football training tracker with offline support and local progress history.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6f2",
+  "theme_color": "#10251c",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
